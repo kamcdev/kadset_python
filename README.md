@@ -1,0 +1,1 @@
+一个读取和写入kadset格式配置文件的python模块，参考json标准库设计，用法几乎相同，附带了示例json和kadset数据
