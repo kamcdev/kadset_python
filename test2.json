@@ -1,0 +1,9 @@
+{
+  "testo": {
+    "testb": 1009.32,
+    "testr": "你好",
+    "testc": {
+      "testi": false
+    }
+  }
+}

@@ -1,0 +1,7 @@
+%testo_start%
+    &testb: 1009.32
+    &testr: "你好"
+    %testc_start%
+        &testi: false
+    %testc_end%
+%testo_end%
